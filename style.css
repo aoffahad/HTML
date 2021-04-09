@@ -1,0 +1,62 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.headline {
+    background-color: red;
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+.ins .batch {
+    color: chocolate;
+}
+
+.box {
+    background-color: whitesmoke;
+    height: 200px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 50 px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-style: inset;
+    box-shadow: 4px 4px 2px 2px;
+}
+
+.outline {
+    width: 700px;
+    height: 100%;
+    position: relative;
+}
+
+.myself {
+    background-color: crimson;
+    text-align: center;
+    border-radius: 50%;
+    border-style: double;
+    border-color: black;
+}
+
+.myimage {
+    text-align: center;
+    width: 25%;
+    height: 52px;
+    position: relative;
+    float: right;
+    top: -170px;
+}
+
+.float {
+    float: left;
+}
+
+.intro {
+    margin-left: 10%;
+    padding-left: 20px;
+}
